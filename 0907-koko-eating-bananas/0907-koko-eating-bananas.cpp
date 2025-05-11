@@ -7,7 +7,7 @@ public:
         while(s<=e){
             long long mid = s+(e-s)/2;
             long long count = 0;
-            for(long long i:piles){
+            for(int i:piles){
                 if(i%mid == 0){
                     count += i/mid;
                 }
@@ -23,6 +23,6 @@ public:
                 s = mid+1;
             }
         }
-        return ans;
+        return (int)ans;
     }
 };
