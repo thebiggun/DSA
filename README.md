@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thebiggun/DSA/tree/master/0001-two-sum) |
+| [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
 | [2406-decode-the-message](https://github.com/thebiggun/DSA/tree/master/2406-decode-the-message) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thebiggun/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2406-decode-the-message](https://github.com/thebiggun/DSA/tree/master/2406-decode-the-message) |
 ## Stack
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
+## Sorting
+|  |
+| ------- |
+| [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
 <!---LeetCode Topics End-->
