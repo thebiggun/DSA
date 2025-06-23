@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thebiggun/DSA/tree/master/0011-container-with-most-water) |
+| [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -47,10 +48,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thebiggun/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thebiggun/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
