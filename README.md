@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/thebiggun/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/thebiggun/DSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/thebiggun/DSA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0907-koko-eating-bananas](https://github.com/thebiggun/DSA/tree/master/0907-koko-eating-bananas) |
 | [2047-find-a-peak-element-ii](https://github.com/thebiggun/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thebiggun/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
@@ -66,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
 <!---LeetCode Topics End-->
