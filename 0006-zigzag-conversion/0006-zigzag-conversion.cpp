@@ -1,8 +1,8 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        vector<string>arr(numRows);
         if (numRows == 1 || numRows >= s.size()) return s;
+        vector<string>arr(numRows);
         int i = 0, row = 0;
         bool direction = 1;
         while(true){
