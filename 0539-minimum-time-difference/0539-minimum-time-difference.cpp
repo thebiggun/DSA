@@ -1,21 +1,25 @@
 class Solution {
 public:
-    int convertToMin(string& time){
-        int hr = stoi(time.substr(0,2));
-        int min = stoi(time.substr(3,2));
-        return hr*60+min;
-    }
     int findMinDifference(vector<string>& timePoints) {
-        vector<int>times;
-        for(string s: timePoints){
-            times.push_back(convertToMin(s));
+        vector<int> v;
+        for(auto i: timePoints)
+        {
+            int h=0;
+            int t= 0;
+            h += i[0] - '1' + 1;
+            h *= 10;
+            h += i[1] - '1' + 1;
+            t += i[3] - '1' + 1;
+            t*= 10;
+            t += i[4] - '1' + 1;
+            v.push_back(h *60 + t);
         }
-        sort(times.begin(), times.end());
-        int minTime = INT_MAX;
-        for(int i = 0; i<times.size()-1; i++){
-            minTime = minTime>(times[i+1]-times[i])?(times[i+1]-times[i]):minTime;
+        sort(v.begin(), v.end());
+        int mini = 24*60 + v[0] - v.back();
+        for(int i=0; i<v.size() - 1; i++)
+        {
+            mini = min(mini, (v[i + 1] - v[i]));
         }
-        minTime = minTime>(1440-times.back()+times[0])?1440-times.back()+times[0]:minTime;
-        return minTime;
+        return mini;
     }
 };
