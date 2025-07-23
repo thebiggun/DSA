@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/thebiggun/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/thebiggun/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/thebiggun/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/thebiggun/DSA/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/thebiggun/DSA/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/thebiggun/DSA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
 | [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/thebiggun/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
