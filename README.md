@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/thebiggun/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thebiggun/DSA/tree/master/0040-combination-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/thebiggun/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/thebiggun/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
