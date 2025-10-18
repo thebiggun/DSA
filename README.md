@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/thebiggun/DSA/tree/master/0066-plus-one) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/thebiggun/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0807-custom-sort-string](https://github.com/thebiggun/DSA/tree/master/0807-custom-sort-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thebiggun/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/thebiggun/DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/thebiggun/DSA/tree/master/1894-merge-strings-alternately) |
 | [2406-decode-the-message](https://github.com/thebiggun/DSA/tree/master/2406-decode-the-message) |
 ## Stack
