@@ -21,12 +21,11 @@ public:
         while (!q.empty()) {
             int s = q.size();
             for (int i = 0; i < s; i++) {
-                TreeNode* cur = q.front();
+                if (q.front()->left != NULL)
+                    q.push(q.front()->left);
+                if (q.front()->right != NULL)
+                    q.push(q.front()->right);
                 q.pop();
-                if (cur->left != NULL)
-                    q.push(cur->left);
-                if (cur->right != NULL)
-                    q.push(cur->right);
             }
             depth++;
         }
