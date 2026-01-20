@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thebiggun/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thebiggun/DSA/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/thebiggun/DSA/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/thebiggun/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/thebiggun/DSA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/thebiggun/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/thebiggun/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thebiggun/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/thebiggun/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/thebiggun/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
