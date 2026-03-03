@@ -101,7 +101,7 @@ public:
         for(int i:nums) totalSum+=i;
         if(totalSum%2==1) return false;
         int find_Sum = totalSum/2;
-
+        
         return findSumOptimal2(nums, find_Sum);
     }
 };
