@@ -74,6 +74,27 @@ public:
         return curr[want_Sum];
     }
 
+    bool findSumOptimal2(vector<int>& nums, int want_Sum){
+        int n = nums.size();
+
+        vector<bool>curr(want_Sum+1, false);
+
+        curr[0] = true;
+
+        for(int index = n-1; index>=0; index--){
+            for(int wantSum = want_Sum; wantSum >= 1; wantSum--){
+                bool inc = false;
+                bool ex = false;
+                if(nums[index]<=wantSum){
+                    inc = curr[wantSum-nums[index]];
+                }
+                ex = curr[wantSum];
+                curr[wantSum] = inc||ex;
+            }
+        }
+        return curr[want_Sum];
+    }
+
     bool canPartition(vector<int>& nums) {
 
         int totalSum = 0;
@@ -83,6 +104,6 @@ public:
         
         vector<vector<int>>dp(nums.size(), vector<int>(find_Sum+1, -1));
 
-        return findSumOptimal1(nums, find_Sum);
+        return findSumOptimal2(nums, find_Sum);
     }
 };
