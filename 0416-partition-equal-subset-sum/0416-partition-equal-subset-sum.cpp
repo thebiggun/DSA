@@ -50,6 +50,30 @@ public:
         return dp[0][want_Sum];
     }
 
+    bool findSumOptimal1(vector<int>& nums, int want_Sum){
+        int n = nums.size();
+        
+        vector<bool>next(want_Sum+1, false);
+        vector<bool>curr(want_Sum+1, false);
+
+        next[0] = true;
+        curr[0] = true;
+
+        for(int index = n-1; index>=0; index--){
+            for(int wantSum = 1; wantSum<=want_Sum; wantSum++){
+                bool inc = false;
+                bool ex = false;
+                if(nums[index]<=wantSum){
+                    inc = next[wantSum-nums[index]];
+                }
+                ex = next[wantSum];
+                curr[wantSum] = inc||ex;
+            }
+            next = curr;
+        }
+        return curr[want_Sum];
+    }
+
     bool canPartition(vector<int>& nums) {
 
         int totalSum = 0;
