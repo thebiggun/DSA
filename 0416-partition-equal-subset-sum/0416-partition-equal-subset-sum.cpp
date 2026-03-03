@@ -28,6 +28,28 @@ public:
         return inc||ex;
     }
 
+    bool findSumTabular(vector<int>& nums, int want_Sum){
+        int n = nums.size();
+        vector<vector<int>>dp(n + 1, vector<int>(want_Sum+1, 0));
+
+        for(int i = 0; i<=n; i++){
+            dp[i][0] = 1;
+        }
+
+        for(int index = n-1; index>=0; index--){
+            for(int wantSum = 1; wantSum<=want_Sum; wantSum++){
+                bool inc = false;
+                bool ex = false;
+                if(nums[index]<=wantSum){
+                    inc = dp[index+1][wantSum-nums[index]];
+                }
+                ex = dp[index+1][wantSum];
+                dp[index][wantSum] = inc||ex;
+            }
+        }
+        return dp[0][want_Sum];
+    }
+
     bool canPartition(vector<int>& nums) {
 
         int totalSum = 0;
@@ -36,6 +58,7 @@ public:
         int find_Sum = totalSum/2;
         
         vector<vector<int>>dp(nums.size(), vector<int>(find_Sum+1, -1));
-        return findSumMemo(nums, 0, find_Sum, dp);
+
+        return findSumTabular(nums, find_Sum);
     }
 };
