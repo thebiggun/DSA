@@ -52,7 +52,7 @@ public:
 
     bool findSumOptimal1(vector<int>& nums, int want_Sum){
         int n = nums.size();
-        
+
         vector<bool>next(want_Sum+1, false);
         vector<bool>curr(want_Sum+1, false);
 
@@ -83,6 +83,6 @@ public:
         
         vector<vector<int>>dp(nums.size(), vector<int>(find_Sum+1, -1));
 
-        return findSumTabular(nums, find_Sum);
+        return findSumOptimal1(nums, find_Sum);
     }
 };
