@@ -101,8 +101,6 @@ public:
         for(int i:nums) totalSum+=i;
         if(totalSum%2==1) return false;
         int find_Sum = totalSum/2;
-        
-        vector<vector<int>>dp(nums.size(), vector<int>(find_Sum+1, -1));
 
         return findSumOptimal2(nums, find_Sum);
     }
