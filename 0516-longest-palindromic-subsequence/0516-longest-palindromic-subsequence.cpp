@@ -18,7 +18,7 @@ int solOptimal1(string& text1, string& text2){
         }
         return curr[0];
     }
-    int longestPalindromeSubseq(string s) {
+    int longestPalindromeSubseq(string& s) {
         string a = s;
         reverse(a.begin(), a.end());
         return solOptimal1(a,s);
