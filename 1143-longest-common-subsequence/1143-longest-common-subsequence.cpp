@@ -41,7 +41,6 @@ public:
 
 
     int longestCommonSubsequence(string text1, string text2) {
-        vector<vector<int>>dp(text1.size(), vector<int>(text2.size(), -1));
         return solTabular(text1, text2);
     }
 };
