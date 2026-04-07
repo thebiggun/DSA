@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/thebiggun/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
 | [0907-koko-eating-bananas](https://github.com/thebiggun/DSA/tree/master/0907-koko-eating-bananas) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/thebiggun/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thebiggun/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2047-find-a-peak-element-ii](https://github.com/thebiggun/DSA/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
