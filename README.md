@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thebiggun/DSA/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thebiggun/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/thebiggun/DSA/tree/master/1768-merge-strings-alternately) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/thebiggun/DSA/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/thebiggun/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/thebiggun/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/thebiggun/DSA/tree/master/0647-palindromic-substrings) |
