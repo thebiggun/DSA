@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
 | [0416-partition-equal-subset-sum](https://github.com/thebiggun/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/thebiggun/DSA/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/thebiggun/DSA/tree/master/0605-can-place-flowers) |
 | [0907-koko-eating-bananas](https://github.com/thebiggun/DSA/tree/master/0907-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thebiggun/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/thebiggun/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thebiggun/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/thebiggun/DSA/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/thebiggun/DSA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/thebiggun/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Matrix
 |  |
